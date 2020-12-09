@@ -21,7 +21,10 @@ npm i
 ```
 
 ## Usage:
-stuff
+To begin entering input to prompts to generate markdown file, enter:
+```
+node app.js
+```
 
 ## Contributing:
 To contribute, send message on what you would like to change, clone repository, make commits with detailed descriptions, and submit pull requests.
