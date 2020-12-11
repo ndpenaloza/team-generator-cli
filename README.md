@@ -12,10 +12,10 @@
   7.  [Questions](#Questions)
 
 ## Description: 
-stuff
+This application is a Node CLI to take information on employees to generate a webpage to display info on each employee.
 
 ## Installation:
-Install Node.js on your machine, clone repository, and on command line enter:
+Install [Node.js](https://nodejs.org/en/) on your machine, clone repository, and on command line enter:
 ```
 npm i
 ```
